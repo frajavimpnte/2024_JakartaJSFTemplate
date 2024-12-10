@@ -6,9 +6,6 @@
   transition: all 0.5s ease-in-out;
 }
 
-.pt-7 {
-    padding-top: 8rem !important;
-}
 .navbar-sticky {
   opacity: 0.9;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
@@ -24,7 +21,7 @@
 }
 
 .download {
-  background: url("#{resource['images/download-background.jpg']}") center center no-repeat;  
+  background: url("#{resource['images/download-background.jpg']}") center center no-repeat;
   background-size: cover;
 }
 
